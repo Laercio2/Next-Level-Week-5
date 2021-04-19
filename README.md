@@ -3,7 +3,7 @@
 **Podecastr**, an open source project developed during Next Level Week # 5, which took place between 19/04 until 23/04, from the [Rocketseat](https://github.com/rocketseat) class, by the Rocketseat CTO, [Diego Fernandes](https://github.com/diego3g).
 
 <h1 align="center">
-    <img alt="Podecastr" title="Podecastr" src=".github/moveit.svg" />
+    <img alt="Podecastr" title="Podecastr" src=".github/podecastr.svg" />
 </h1>
 
 
