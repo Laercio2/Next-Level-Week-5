@@ -32,7 +32,7 @@
 This event had five days, from Monday to Friday, with exclusive and free materials, separated into:
 - [x] "Liftoff"
 - [x] "Maximum Speed"
-- [ ] "In Orbit"
+- [x] "In Orbit"
 - [ ] "Landing"
 - [ ] "Surface Exploration & Accelerating your career"
 
