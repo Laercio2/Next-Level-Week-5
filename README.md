@@ -33,7 +33,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [x] "Liftoff"
 - [x] "Maximum Speed"
 - [x] "In Orbit"
-- [ ] "Landing"
+- [x] "Landing"
 - [ ] "Surface Exploration & Accelerating your career"
 
 ---
