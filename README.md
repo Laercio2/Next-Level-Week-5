@@ -11,8 +11,6 @@
   <a href="#-schedule">Schedule</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-deploy-the-project-at-vercel">How to deploy the project at vercel</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-preview">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>
 </p>
 
@@ -61,26 +59,14 @@ This project was bootstrapped with Create React App
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
+# Run the JSON server
+`yarn server`
+
 # Transition to Next.js
 Recreation of the project with Next.js
 `https://github.com/vercel/next.js`
 ```
-
-## 🏨 How to deploy the project at vercel
-
-```bash
-# Getting Started with installing vercel cli globally
-`yarn global add vercel`
-
-# Run vercel commands
-`yarn login`
-And in the project directory, execute the command `vercel` to start the application deployment
-```
-
-## 🔥 Preview
-
-[![Deploy with Vercel](https://vercel.com/button)]()
-
+---
 
 ## 📝 License
 
