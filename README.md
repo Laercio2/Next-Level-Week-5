@@ -34,7 +34,7 @@ This event had five days, from Monday to Friday, with exclusive and free materia
 - [x] "Maximum Speed"
 - [x] "In Orbit"
 - [x] "Landing"
-- [ ] "Surface Exploration & Accelerating your career"
+- [x] "Surface Exploration & Accelerating your career"
 
 ---
 ## 🚀 Technologies
